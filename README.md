@@ -71,7 +71,7 @@ Take a look at my [webpage](https://dask-58.github.io) or spend some time spendi
 
 
 
-![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)  
+![Profile views counter](https://komarev.com/ghpvc/?username=dask-58&&style=flat-square)  
   
 
 <br/>  
