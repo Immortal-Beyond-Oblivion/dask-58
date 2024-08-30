@@ -38,8 +38,9 @@ Take a look at my [webpage](https://dask-58.github.io) or spend some time spendi
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://i.gifer.com/E25.gif" align="center" style="width: 100%" />
-</div>  
+  <img src="" />
+</div>
+
 
 
 </td></tr></table>  
