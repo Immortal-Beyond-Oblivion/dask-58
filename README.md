@@ -85,5 +85,3 @@ Take a look at my [webpage](https://dask-58.github.io) or spend some time spendi
             </a></div>
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
