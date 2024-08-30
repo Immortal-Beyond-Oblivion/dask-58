@@ -38,7 +38,7 @@ Take a look at my [webpage](https://dask-58.github.io) or spend some time spendi
 </td><td valign="top" width="50%">
 
 <div align="center">
-  <img src="" />
+  <img src="E25.gif" />
 </div>
 
 
